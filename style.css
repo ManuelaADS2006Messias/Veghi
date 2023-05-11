@@ -1,0 +1,33 @@
+body{
+    background-image: url(fundoo.jpg);
+    background-size: cover;
+
+}
+
+.imagem1{
+    text-align: center;
+}
+
+.texto1{
+   font-family:'arial';
+   font-size: 15px;
+}
+
+.cardápio{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.imagem{
+    text-align: center;
+
+}
+
+figure{
+    text-align: left;
+}
+
+
